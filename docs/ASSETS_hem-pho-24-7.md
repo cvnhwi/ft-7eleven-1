@@ -36,7 +36,7 @@ Model: **Seedream 5.0 Pro** (Higgsfield) · 1.5K (2048×1152) · 16:9 · 19 asse
 |---|---|---|---|
 | CH01 | Nữ chính – áo dài cách tân đỏ gấc, túi xanh ngọc | Crimson + Green | `62060764-3aae-4981-8b37-285d1ecd2433` |
 | CH02 | Nam – bomber xanh ngọc thêu cá chép, kính tròn | Green | `d496f65b-69ef-49c0-8b9d-6e46c8ddcad5` |
-| CH03 | Nữ – tóc bob nâu đồng, cardigan cam | Orange | v1 `f16654ad-d47a-4db0-871d-a336408942b9` (bị look 3D, loại) → v2A `d66f2aac-8b41-4007-89fd-2a8aa2a35857` / v2B `f0b0a341-00b6-4737-a7c7-304c35bcc062` (ref style CH02) |
+| CH03 | Nữ – tóc bob nâu đồng, cardigan cam | Orange | v1 `f16654ad-d47a-4db0-871d-a336408942b9` (bị look 3D, loại) → v2A `d66f2aac-8b41-4007-89fd-2a8aa2a35857` / v2B `f0b0a341-00b6-4737-a7c7-304c35bcc062` (ref style CH02) → **v3 đổi mặt**: A `c4a10f9a-a7e7-44d7-a5c9-d81c67c39cc7` (da sáng, nốt ruồi dưới mắt) / B `adfacea1-525f-4e1f-b14e-71f420e0ada0` (da rám, gò má cao, mắt một mí) |
 | CH04 | Nam – tóc xoăn, overshirt kem + hoodie đỏ đô | Burgundy | `66029270-e361-4471-8221-96af675a79b4` |
 
 Áo của 4 nhân vật được phối theo bảng màu brand + lễ hội để khi đứng chung ở shot 4 vẫn đúng tone dự án.
