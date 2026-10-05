@@ -28,3 +28,8 @@ Draft có thể finalize lên 1080p trong 7 ngày (`draft_job_id`).
 - Sản phẩm (món ăn) có shot hero riêng, ánh sáng ngon miệng.
 - Không để AI gen chữ/logo; end card khóa máy để composite.
 - VO tiếng Việt thu thật ở hậu kỳ (AI dễ sai dấu/giọng).
+
+## v1.1 — cắt bỏ logo giả cuối video
+- Bản gốc tự sinh logo giả "NITHI IOYUEN" từ 28.58s → cắt video tại **28.45s** (trước logo 3 frame), fade-out audio 0.8s cuối.
+- File: media `0b8d1ac7-fb02-40ab-a76f-1dac8d34588a` — https://d2ol7oe51mr4n9.cloudfront.net/user_346Fub0t3c9aYPdIlCxCRUQ3BKx/0b8d1ac7-fb02-40ab-a76f-1dac8d34588a.mp4
+- H.264, 854×480, 24fps, AAC. Shot 5 còn ~2.4s cú pull-back, frame cuối sạch (mặt tiền + pháo hoa).
