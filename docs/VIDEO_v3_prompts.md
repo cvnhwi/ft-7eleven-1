@@ -117,3 +117,38 @@ Slow push-in on the four friends laughing together at the window counter; outsid
 ```
 Pull-back and crane-up from the storefront to reveal the busy sunny street full of people and motorbikes; for the final 2 seconds the camera locks completely still, leaving clean empty sky at the top of frame for an end card. Bright sunny afternoon, high-key exposure, vivid broadcast-safe colors, crisp commercial look. Keep faces, outfits and environment exactly as the start frame. No text, no logos, no letters, no morphing or distortion.
 ```
+
+## C. Multi-shot 30s một lần gen + transition effect (Seedance 2.5 omni_reference)
+
+Gộp 14 cut → 9 shot nối bằng transition có động cơ (whip-pan, match cut, light-wipe, steam-wipe, confetti-wipe): nhịp vẫn nhanh nhưng model ít phải "nhảy cảnh" hơn → ít lệch mặt/bỏ shot.
+Ref: 1 BG00 · 2 BG01 · 3 BG02 · 4 BG03 · 5 BG04 · 6 BG05 · 7 CH01 Linh · 8 CH02 Khang · 9 CH03 Mai · 10 CH04 Bao · 11 P06 · 12 P07
+
+```
+A 30-second multi-shot Vietnamese Tet TV commercial for a convenience store, 16:9, 9 shots connected by energetic motivated transitions, cut on the beat of an upbeat 120 BPM track. Bright sunny late afternoon around 4-5pm, high-key exposure, open shadows, crisp clean whites, vivid broadcast-safe colors, brand accents orange, green and red, red and gold lanterns and yellow hoa mai blossoms everywhere. Keep every character's face, hair and outfit exactly as in their reference images in every shot. No dialogue, no on-screen text, no logos, no letters on any sign.
+
+SHOT 1 (0-2.5s) — Image 1. Snap-zoom into a red carp lantern spinning in the sunlight, then a fast whip-pan across the crowded alley street: streams of motorbikes with motion blur, people carrying hoa mai branches, vendors stirring steaming pots.
+TRANSITION: whip-pan motion blur carries straight into the next shot.
+
+SHOT 2 (2.5-5s) — Image 2. Fast push-in on the bright storefront; Linh (image 7) weaves through the passing crowd with a big smile and the glass doors slide open for her.
+TRANSITION: match cut on action — her foot crosses the threshold and lands inside.
+
+SHOT 3 (5-6s) — Image 3. Low-angle at floor level: Linh's white sneaker lands on the glossy aisle floor.
+
+SHOT 4 (6-11s) — Image 3 into image 4. Steadicam follows Linh down the bright aisle. TRANSITION EFFECT: a glowing wave of golden sunlight with sparkling dust sweeps from the far end toward the camera; everywhere it passes, the shelves transform into the sunlit street-food alley of image 4 with wooden stalls, steam, lanterns and diners. One continuous move, then a fast 90-degree arc around Linh as she looks around delighted.
+TRANSITION: a puff of steam from a food stall fills the frame and clears to reveal the next shot (steam wipe).
+
+SHOT 5 (11-14s) — Image 5. Macro: a microwave door pops open with a burst of steam; slow-motion steam rising from glossy red xoi gac (image 11), backlit by sunlight.
+
+SHOT 6 (14-17s) — Image 5. Rack focus from the steam to Linh's hand lifting a mini banh chung (image 12), revealing its green cut cross-section.
+TRANSITION: the banh chung swings toward the lens and fills the frame (object wipe), revealing the next shot.
+
+SHOT 7 (17-20s) — Image 6. Fast lateral dolly along the sunlit window counter as Khang (image 8), Mai (image 9) and Bao (image 10) burst in waving; Bao holds up a red-and-gold gift box; Linh turns and laughs.
+TRANSITION: quick whip-tilt down to the counter.
+
+SHOT 8 (20-26s) — Image 6. Top-down: dishes slide in fast — xoi gac, mini banh chung, fish balls, a small steaming hotpot — four pairs of hands reach in at once. Cut on the beat to a close-up of four cups clinking, then push-in on all four friends laughing while red and gold confetti and balloons burst outside the sunlit window (music peak).
+TRANSITION: a shower of red and gold confetti sweeps across the lens (confetti wipe).
+
+SHOT 9 (26-30s) — Image 2. Pull-back and crane-up from the storefront to the busy sunny street full of people and motorbikes; for the last 2 seconds the camera locks completely still, with clean empty blue sky at the top of frame for an end card.
+
+Audio: upbeat modern Vietnamese pop-electronic beat with dan tranh accents, each transition hit with a whoosh or riser; diegetic SFX: motorbike whooshes, crowd chatter, door chime, microwave beep, sizzling, cups clinking, confetti pop. No vocals, no voiceover.
+```
