@@ -27,3 +27,34 @@ Con gái (áo sơ mi denim xanh, quần trắng) · Bố (sơ mi mustard, jeans)
 
 ## Global style
 Dùng được làm prefix cho mọi shot (đã khớp board). Thoại/VO: full English.
+
+## TVC v2 draft (30s, 480p) — KHÔNG dùng board Drive làm input
+Final: https://d2ol7oe51mr4n9.cloudfront.net/user_346Fub0t3c9aYPdIlCxCRUQ3BKx/790eaca4-b316-42e2-a4d8-2938bbd2cc56.mp4
+
+### Prop bổ sung
+| Prop | job/media |
+|---|---|
+| Hộp gà sốt mắm tỏi ớt | ad278887-2579-4737-aa57-0038a224c169 |
+| Chén mắm tỏi ớt | 10a47c85-5203-4da0-8f15-75693ad000cc |
+| Mẹt tre trống | 5a0683a1-e7d0-41ec-8b0d-04a0cac1a97a |
+| Packshot sạch (đã delogo) | 0c2eb57f-d79d-4559-9d65-b169f41231d0 |
+
+### Keyframes → clips → cut
+| Frame | Keyframe | Clip | In | Dur |
+|---|---|---|---|---|
+| 01 | 8a9bb0c8 | 94065699 | 1.0 | 2 |
+| 02 | f9d9826b | 9e0df3e7 | 0.8 | 2 |
+| 03 | 99a5127d | 0290c424 | 0–4 @2x, 8fps step | 2 |
+| 04 | a3231daa | 3d3081d1 | 1.0 | 2 |
+| 05 | 061385e4 | 33f19bf1 | 0.5 | 2 |
+| 06 | 8cc7daa3 | 873b1603 | 1.0 | 2 |
+| 07+08 | 5f2b808e | fa0b191d | 0.5 | 4 |
+| 09 | 9ea17f44 | b96546dd | 0.8 | 2 |
+| 10 | 59edc487 | 7edb3750 | 0.5 | 3 |
+| 11 | 64205114 | dc9fa741 | 0–4 @2x, 8fps step | 2 |
+| 12 | da9185d8 | e0cd092e | 1.0 | 3 |
+| 13 | 0c2eb57f | 13fd13c4 | 0.8 | 4 |
+
+### Audio
+- Music bed: audio track từ McD v1 (7ba588fe), dip -6dB tại 16.9–17.5s (crunch pause), ducking dưới VO.
+- VO (seed_audio, voice "Faye"): 0.3s "This Tet, we're setting a brand-new table." · 18.3s "Crunch into something new." · 25.1s "A new Tet feast. Joy all around. McDonald's."
