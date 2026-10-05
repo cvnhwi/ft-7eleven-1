@@ -58,7 +58,7 @@ Background plate, 3/4 view of a long window bar counter with stools inside a bri
 
 **K2a** — ref: BG02v3 + CH01 v2
 ```
-Place the woman from the character reference (keep her face, hair and white-red ao dai exactly) walking down the center of the aisle from the background reference, seen from behind at a slight 3/4 angle, mid-stride, one hand reaching toward the shelf, joyful energy. Keep the background, camera angle and bright lighting exactly as the background reference.
+Place the woman from the character reference (keep her face, hair and ivory-white ao dai with red piping exactly) walking down the center of the aisle from the background reference, seen from behind at a slight 3/4 angle, mid-stride, one hand reaching toward the shelf, joyful energy. Keep the background, camera angle and bright lighting exactly as the background reference.
 ```
 
 **K2b** — ref: BG03v3 + K2a
