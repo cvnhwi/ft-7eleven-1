@@ -13,3 +13,8 @@
 
 ## McDonald's
 - Video gốc: 7ba588fe (omni_reference, 12 refs)
+
+## McDonald's still không chữ + video khói (Kling)
+- Still sạch chữ (Seedream 5.0 Pro inpaint, 2720×1536): `3625329b-0293-498a-a5a4-025a8686efe7`
+- Video gà bốc khói, camera fixed (Kling 3.0 Pro, 5s, 1080p, no sound): `e33c5056-779c-4e5a-aa77-4ef72f021ff6`
+- Upscale 4K (Topaz 2160p): `0c8a6a10-6bc5-4024-b6e6-17136d760a68` — https://d8j0ntlcm91z4.cloudfront.net/user_346Fub0t3c9aYPdIlCxCRUQ3BKx/hf_20261005_192649_0c8a6a10-6bc5-4024-b6e6-17136d760a68.mp4
