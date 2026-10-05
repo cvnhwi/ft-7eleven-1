@@ -58,3 +58,8 @@ Final: https://d2ol7oe51mr4n9.cloudfront.net/user_346Fub0t3c9aYPdIlCxCRUQ3BKx/79
 ### Audio
 - Music bed: audio track từ McD v1 (7ba588fe), dip -6dB tại 16.9–17.5s (crunch pause), ducking dưới VO.
 - VO (seed_audio, voice "Faye"): 0.3s "This Tet, we're setting a brand-new table." · 18.3s "Crunch into something new." · 25.1s "A new Tet feast. Joy all around. McDonald's."
+
+## TVC v3 — bright TVC look, single 30s omni_reference gen (no VO, music+SFX từ Seedance)
+- Job: f55ab3e4-abe3-4b0e-8051-e7395ec713f8 (12 refs: 4 char sheets, set, K01, packshot, chicken box, sauce, burger, fries, cups)
+- Fix: blur fake logo/text vùng trên packshot từ 25.825s (crop 400x160 @227,4)
+- Final: https://d2ol7oe51mr4n9.cloudfront.net/user_346Fub0t3c9aYPdIlCxCRUQ3BKx/e0c46b97-ed76-4ba5-878d-f1ce3198ab54.mp4
