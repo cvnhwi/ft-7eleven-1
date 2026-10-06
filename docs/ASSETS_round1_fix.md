@@ -81,3 +81,16 @@ Loại: quẩy trong nhà (`4d1ee8ca` + clip `ef9c9401`), quẩy trên vỉa hè
 - Base: frame gốc `refs/r1/frame_s9.png` (giữ nguyên cửa sổ, quầy, ghế cam, tủ cam; chỉ đổi biển cam → stripes + logo theo feedback vòng 1).
 - Chốt: media `c76556fc-dd47-4d87-9a46-512969b012db` (4 bạn ngoài kính). Bản A `ae0e48f7`: nhóm bạn đứng trong nhà → loại.
 - Clip 5s draft: job `68a62529-8bd3-468c-88cc-920e81d20c61`. Các bản trước (`2599b138` + `ba5a0145`) đổi location → loại.
+
+### Party still — vòng "đứng hẳn ngoài kính" (chờ khách xác nhận)
+
+| Bản | Media (persisted) | Link | Đánh giá |
+|---|---|---|---|
+| A (a23996ba) | 8707ad1d-4b66-46f8-895d-033fe090994f | — | Reject: còn sát kính, giống đứng sau quầy |
+| B (2ea0b4f4) | 011ecc63-2a7b-440e-986b-484b7510db61 | — | Reject: như A |
+| C (0d77947a) | 55f1f05c-a486-46f6-8577-b7dfd722e14e | — | Ngoài kính rõ nhưng nền đường trống, mất phố Tết → reject |
+| D (42e928c1) | — | — | Reject: chân lộ ngay dưới quầy, mơ hồ |
+| **E (15a1b77d)** | 1468bb84-a09a-4af3-ae62-7d67ce8dae4d | https://d2ol7oe51mr4n9.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/1468bb84-a09a-4af3-ae62-7d67ce8dae4d.png | Candidate: ngoài hẳn, sau hàng chậu mai, phố Tết, nhân vật nhỏ |
+| **F (3a627220)** | 1354e0b8-5173-40ec-a9d4-f1da0cd27187 | https://d2ol7oe51mr4n9.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/1354e0b8-5173-40ec-a9d4-f1da0cd27187.png | **Đề xuất**: ngoài hẳn, nhân vật lớn hơn, phố Tết đông vui |
+
+Dấu hiệu chiều sâu: hàng chậu mai đặt ngoài vỉa hè sát kính (nằm giữa kính và nhóm bạn), vỉa hè lát gạch nhìn qua kính dưới quầy, quầy/ghế trong shop trống, nắng ngoài trời khác ánh đèn trong.
