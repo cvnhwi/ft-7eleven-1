@@ -33,3 +33,13 @@ Sheet nhân vật chưa có trên Higgsfield; draft video dùng mô tả text ch
 - Refs theo thứ tự: image 1–7 = ảnh chốt #1–#7 ở bảng trên; `end_image` = #8 (end card, khóa frame cuối).
 - Prompt: dựa trên `docs/PROMPT_tet-30s-v2.md`, thêm khóa branding + mô tả 4 nhân vật; ly đổi sang thủy tinh, SFX "glass clinks with ice".
 - Finalize 1080p: gọi lại Seedance 2.5 với `draft_job_id` = job ID ở trên (trong vòng 7 ngày).
+
+## Update: cảnh phố ít xe, đi đúng chiều
+
+Lưu ý: các job ảnh pass 1–2 ở trên không còn trên Higgsfield ("Generation not found"); video draft `7ba08f64…` vẫn còn.
+
+- Ảnh toàn cảnh mới (làm lại từ `refs/r1/frame_s3.png` + logo + ref mặt tiền, một lượt gồm branding, xe và relight):
+  - **Chốt A** `4b549a71-b52e-4723-8e5f-0f207ebcbe71`: khoảng 8 xe; xe tới gần máy ở nửa trái, xe đi xa ở nửa phải (giữ bên phải).
+  - B `4fa1ace1-c549-4c7c-bd92-2a26e83ed7af`: khoảng 5 xe; có 1 xe giữa-phải đi ngược chiều → loại.
+- Clip riêng cảnh phố: Seedance 2.5, 5s, draft 480p, start_image = A. Job `b4cd7f4c-c447-4e49-9cb0-2a41e60db461`.
+- Sheet nhân vật: `refs/chars/{linh,mai,bao,khang}.png`.
