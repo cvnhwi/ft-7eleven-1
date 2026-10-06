@@ -69,3 +69,9 @@ Lưu ý: các job ảnh pass 1–2 ở trên không còn trên Higgsfield ("Gene
 | Nhóm bạn cùng quẩy; quẩy ngoài cửa kính; sửa Khang | Góc trong nhà nhìn ra quầy cửa kính, 4 bạn quẩy ngoài kính, Khang đúng sheet | `2599b138-4696-4c10-a361-6333eaf7adc6` | job `ba5a0145-b221-40ac-a978-0ae10473f302` |
 
 Loại: quẩy trong nhà (`4d1ee8ca` + clip `ef9c9401`), quẩy trên vỉa hè (`925e5514`, `772df696`, clip `8a150f8a`). Khách chốt góc trong nhà nhìn ra kính.
+
+## Fix: Hẻm ẩm thực, line dưới thành trắng (bản sửa lỗi)
+
+- Lỗi bản trước (`0cb22f40`): stripes là lớp phẳng dán ngang mép trên khung, không nằm trong cảnh → loại (clip `65b534c7` cũng loại).
+- Bản chốt: media `0cdba3d3-fff3-4e6f-b86a-be5969d7b43b`. Stripes brand nằm trên dải trần thật, có phối cảnh; biển dưới nền trắng, chỉ có logo. (Bản B `c47fc13f`: logo nhỏ và mờ → loại.)
+- Clip 4s draft: job `64dc204d-6602-4f9f-860a-90b5d034bb8e`. Máy push-in nhẹ để biển và logo luôn nằm trong khung.
