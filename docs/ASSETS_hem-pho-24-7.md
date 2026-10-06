@@ -4,11 +4,13 @@ Model: **Seedream 5.0 Pro** (Higgsfield) · 1.5K (2048×1152) · 16:9 · 19 asse
 
 ## Style Bible (khóa tone màu toàn dự án)
 
+> Màu brand cập nhật theo file INPUT 711 của khách (06/10). Thứ tự 3 stripes từ trên xuống: cam → xanh → đỏ, trên nền trắng.
+
 | Vai trò | Màu | Hex |
 |---|---|---|
-| Neon brand – cam | 7-Eleven Orange | `#F4811F` |
-| Neon brand – xanh | 7-Eleven Green | `#008163` |
-| Neon brand – đỏ | 7-Eleven Red | `#EE2526` |
+| Brand – cam | 7-Eleven Orange (Pantone 1505 XGC) | `#FF6C00` |
+| Brand – xanh | 7-Eleven Green (Pantone 336 C) | `#007350` |
+| Brand – đỏ | 7-Eleven Red (Pantone 2347 C) | `#EC0F2A` |
 | Lễ hội – đèn lồng | Crimson | `#C8102E` |
 | Lễ hội – kim tuyến | Gold | `#E8B04A` |
 | Bóng đêm | Deep teal-blue | `#0E2A33` |
