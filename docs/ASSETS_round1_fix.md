@@ -43,3 +43,12 @@ Lưu ý: các job ảnh pass 1–2 ở trên không còn trên Higgsfield ("Gene
   - B `4fa1ace1-c549-4c7c-bd92-2a26e83ed7af`: khoảng 5 xe; có 1 xe giữa-phải đi ngược chiều → loại.
 - Clip riêng cảnh phố: Seedance 2.5, 5s, draft 480p, start_image = A. Job `b4cd7f4c-c447-4e49-9cb0-2a41e60db461`.
 - Sheet nhân vật: `refs/chars/{linh,mai,bao,khang}.png`.
+
+## Update: Linh đi vào cửa hàng (đúng location của clip phố)
+
+- Lưu ý: ảnh gen trên Higgsfield bị mất sau một thời gian (job "not found"), video thì còn. Từ giờ ảnh chốt được lưu lại thành media upload cố định.
+- Mốc vị trí: frame cuối clip phố `b4cd7f4c…` → media `dfd0c2db-3eaa-48fa-9631-f4ff57b4bdb8`.
+- Ảnh trung cận (Seedream, refs: frame cuối + sheet Linh + logo):
+  - **Chốt** `2d767577-d203-4b03-9e13-2c1d762b0e8b` → media cố định `2ceee65a-ad6e-45c2-b822-bb4fb6a29a25`.
+  - `e1589aa4…`: bị nhân đôi Linh → loại.
+- Clip Linh vào cửa: Seedance 2.5, 5s draft 480p, start_image = `2ceee65a…`, ref = sheet Linh. Job `a6ed73f8-c3a5-4246-b830-5e069e31637a`.
