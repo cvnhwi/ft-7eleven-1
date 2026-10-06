@@ -52,3 +52,20 @@ Lưu ý: các job ảnh pass 1–2 ở trên không còn trên Higgsfield ("Gene
   - **Chốt** `2d767577-d203-4b03-9e13-2c1d762b0e8b` → media cố định `2ceee65a-ad6e-45c2-b822-bb4fb6a29a25`.
   - `e1589aa4…`: bị nhân đôi Linh → loại.
 - Clip Linh vào cửa: Seedance 2.5, 5s draft 480p, start_image = `2ceee65a…`, ref = sheet Linh. Job `a6ed73f8-c3a5-4246-b830-5e069e31637a`.
+
+## Update: Linh vào cửa (logo chính giữa trên đầu nhân vật)
+
+- Ảnh đầu: media `54b7d77c-7986-424f-ad7b-5c62d2761ef3`. Ảnh cuối: media `f3462198-61d5-411e-9408-ba704a818453` (logo ghép bằng file vector chính thức, vì Seedream render sai chữ "7-LEVEN").
+- Clip (start + end frame, 5s draft): [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/hf_20261006_161146_982a52bd-6fcc-4668-9d9d-1234c1de2b74.mp4). Job `982a52bd…`
+
+## Round 2 feedback (khách)
+
+| Feedback | Xử lý | Ảnh chốt (media cố định) | Clip draft |
+|---|---|---|---|
+| Lò vi sóng bớt khói | Chỉ còn vài sợi khói mảnh | `867c0242-b587-4cc1-bfd6-22947af1870f` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/hf_20261006_162620_48565027-02f4-4df3-9b72-15001b20a30d.mp4) |
+| Hẻm ẩm thực: line dưới thành trắng | Biển dưới nền trắng + logo; stripes chỉ ở dải trên | `0cb22f40-d329-40de-b28a-b96261f35f98` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/hf_20261006_162619_65b534c7-7fe8-478f-a745-d21fa02e6c12.mp4) |
+| Đổi sang bánh chưng, đồng bộ món ăn | Bánh chưng vuông lá dong, lạt tre; mặt cắt gạo xanh/đậu xanh/thịt → **mẫu chuẩn cho mọi shot** | `50832884-0467-4eb4-946e-fef4a3da8dcb` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/hf_20261006_162619_ba038bd4-77a4-4e31-9e6d-3c86d1016c67.mp4) |
+| (đồng bộ) Bàn ăn top-down | Dùng đúng mẫu bánh chưng + tô xôi gấc ở trên | `be3e95ac-8990-40e6-a146-2ea706b58189` | [mp4](https://d8j0ntlcm91z4.cloudfront.net/user_3IOz7tFscQRUWCyOIu2UK9CE8RJ/hf_20261006_163423_86552827-71b7-446e-97f6-3c7946438970.mp4) |
+| Nhóm bạn cùng quẩy; quẩy ngoài cửa kính; sửa Khang | Góc trong nhà nhìn ra quầy cửa kính, 4 bạn quẩy ngoài kính, Khang đúng sheet | `2599b138-4696-4c10-a361-6333eaf7adc6` | job `ba5a0145-b221-40ac-a978-0ae10473f302` |
+
+Loại: quẩy trong nhà (`4d1ee8ca` + clip `ef9c9401`), quẩy trên vỉa hè (`925e5514`, `772df696`, clip `8a150f8a`). Khách chốt góc trong nhà nhìn ra kính.
