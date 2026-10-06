@@ -25,3 +25,11 @@ Quy trình: sửa trực tiếp frame của video 1006-1 → relight pass (khớ
 Linh (chính): áo dài trắng viền đỏ thêu mai vàng, kẹp hoa vàng, túi xanh lá. Mai: tóc bob nâu mái bằng, kẹp đỏ, áo len xanh lá + cardigan trắng, chân váy jean xếp ly, giày Mary Jane đỏ.
 Bảo: dáng đầy đặn, tóc xoăn, mũ bucket kem, polo đỏ viền trắng, quần short jean, hộp quà đỏ-vàng. Khang: undercut, sơ mi cam họa tiết cá koi trắng, áo thun trắng, quần kaki be, đồng hồ bạc.
 Sheet nhân vật chưa có trên Higgsfield; draft video dùng mô tả text cho Mai/Bảo/Khang.
+
+## Video draft round 1
+
+- Model: Seedance 2.5, `omni_reference`, 30s, draft 480p, 16:9, audio on. Chi phí: 90 credits.
+- Job ID: `7ba08f64-dcf7-4426-b620-48b6f16fe905`
+- Refs theo thứ tự: image 1–7 = ảnh chốt #1–#7 ở bảng trên; `end_image` = #8 (end card, khóa frame cuối).
+- Prompt: dựa trên `docs/PROMPT_tet-30s-v2.md`, thêm khóa branding + mô tả 4 nhân vật; ly đổi sang thủy tinh, SFX "glass clinks with ice".
+- Finalize 1080p: gọi lại Seedance 2.5 với `draft_job_id` = job ID ở trên (trong vòng 7 ngày).
