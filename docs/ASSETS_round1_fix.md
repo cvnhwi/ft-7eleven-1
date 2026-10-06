@@ -75,3 +75,9 @@ Loại: quẩy trong nhà (`4d1ee8ca` + clip `ef9c9401`), quẩy trên vỉa hè
 - Lỗi bản trước (`0cb22f40`): stripes là lớp phẳng dán ngang mép trên khung, không nằm trong cảnh → loại (clip `65b534c7` cũng loại).
 - Bản chốt: media `0cdba3d3-fff3-4e6f-b86a-be5969d7b43b`. Stripes brand nằm trên dải trần thật, có phối cảnh; biển dưới nền trắng, chỉ có logo. (Bản B `c47fc13f`: logo nhỏ và mờ → loại.)
 - Clip 4s draft: job `64dc204d-6602-4f9f-860a-90b5d034bb8e`. Máy push-in nhẹ để biển và logo luôn nằm trong khung.
+
+## Fix: Nhóm bạn quẩy, giữ nguyên location gốc, quẩy ngoài cửa kính
+
+- Base: frame gốc `refs/r1/frame_s9.png` (giữ nguyên cửa sổ, quầy, ghế cam, tủ cam; chỉ đổi biển cam → stripes + logo theo feedback vòng 1).
+- Chốt: media `c76556fc-dd47-4d87-9a46-512969b012db` (4 bạn ngoài kính). Bản A `ae0e48f7`: nhóm bạn đứng trong nhà → loại.
+- Clip 5s draft: job `68a62529-8bd3-468c-88cc-920e81d20c61`. Các bản trước (`2599b138` + `ba5a0145`) đổi location → loại.
